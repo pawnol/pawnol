@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Nolan Pawelski and I am a Computer Science teacher at @EastTroyHighSchool.
+My name is Nolan Pawelski and I am a Computer Science teacher at @EastTroyCommunitySchoolDistrict.
 <!--
 **pawnol/pawnol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
