@@ -4,7 +4,7 @@ My name is Nolan Pawelski and I am a Computer Science/Technology Education teach
 * Introduction to Computer Science (Python)
 * Developing Desktop Applications (C#) TC
 * Game Development (C#)
-* Web Programming (HTML, CSS, JavaScript)
+* Web Programming (HTML, CSS, JavaScript) TC
 * AP Computer Science Principles (Python)
 * AP Computer Science A (Java)
 
